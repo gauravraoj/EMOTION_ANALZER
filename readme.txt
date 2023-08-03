@@ -1,0 +1,1 @@
+ python -m streamlit run app.py (in vs code terminal)
